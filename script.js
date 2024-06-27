@@ -80,4 +80,5 @@ promise.then((result) => {
 //spred operator
 
 let arr1 = [1,2,3,4,5];
- 
+var newNumber = [...numbers, 6, 7, 8];
+console.log(newNumber);
